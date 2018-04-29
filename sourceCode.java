@@ -31,8 +31,8 @@ public class sourceCode {
 
 
         //sisestan kasutajanime, parooli ja klikin logi sisse nupul
-        driver.findElement(By.id("login-form-username")).sendKeys("martin_nortal");
-        driver.findElement(By.id("login-form-password")).sendKeys("350XN35x3");
+        driver.findElement(By.id("login-form-username")).sendKeys("xxx");
+        driver.findElement(By.id("login-form-password")).sendKeys("xxx");
         driver.findElement(By.id("login")).click();
 
 
